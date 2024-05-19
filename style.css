@@ -1,0 +1,11 @@
+html, body {
+			margin: 0;
+			padding: 0;
+			background-color:#fffff;
+			overflow: hidden;
+		}
+		#logo {
+		  position: absolute;
+		  bottom:2px;
+		  right:2px;
+		}
